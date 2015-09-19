@@ -2,32 +2,32 @@
 <items version="2" >
 
     <item
+        jar="/Users/jeff/git/custom_ListView/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/jeff/git/custom_ListView/app/build/intermediates/pre-dexed/debug/classes-f9cf718590c479e09bf1b07dece14a57e8571fa3.jar" />
+    </item>
+    <item
         jar="/Users/jeff/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
-        <dex dex="/Users/jeff/Desktop/CustomListView/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-532ad87ca9080af0931e4c8158ddec80eeef550d.jar" />
+        <dex dex="/Users/jeff/git/custom_ListView/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-532ad87ca9080af0931e4c8158ddec80eeef550d.jar" />
     </item>
     <item
-        jar="/Users/jeff/Desktop/CustomListView/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
-        <dex dex="/Users/jeff/Desktop/CustomListView/app/build/intermediates/pre-dexed/debug/classes-24aec4593d28c460d0c4cf93b6bd7ea6af6a5747.jar" />
-    </item>
-    <item
-        jar="/Users/jeff/Desktop/CustomListView/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
-        <dex dex="/Users/jeff/Desktop/CustomListView/app/build/intermediates/pre-dexed/debug/classes-dee74a851579c56cbe0a0879e44bca71ec68b686.jar" />
-    </item>
-    <item
-        jar="/Users/jeff/Desktop/CustomListView/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jar="/Users/jeff/git/custom_ListView/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
-        <dex dex="/Users/jeff/Desktop/CustomListView/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-bb5f440bb298e96de730a49df83f4001a8870547.jar" />
+        <dex dex="/Users/jeff/git/custom_ListView/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-f46583c1e9494937f17ed0f7c724063d4c7f5055.jar" />
+    </item>
+    <item
+        jar="/Users/jeff/git/custom_ListView/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/jeff/git/custom_ListView/app/build/intermediates/pre-dexed/debug/classes-a446b6d870d3a94375f0c14d507fd105bd1108c3.jar" />
     </item>
 
 </items>
